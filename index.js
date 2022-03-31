@@ -46,7 +46,7 @@ btns.forEach((element, index) => {
                 }
             }
             else {
-                alert("u lost, score: " + points)
+                alert("Score: " + points)
                 started = false
             }
         }
