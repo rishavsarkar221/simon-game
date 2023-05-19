@@ -16,7 +16,7 @@ const game = () => {
         current = randomNumber
         started = true
         idk.push(current)
-    }, 1000)
+    }, 1000);
 
 }
 
